@@ -1,3 +1,10 @@
+> [!NOTE]
+> **Este fork es de estudio.** El desarrollo siguió en
+> [robert-flo/ravn-sessionizer](https://github.com/robert-flo/ravn-sessionizer)
+> (reimplementación desde cero, MIT) y su paquete Arch
+> [robert-flo/ravn-sessionizer-arch](https://github.com/robert-flo/ravn-sessionizer-arch).
+> El diseño quedó en `docs/` de este fork y en `docs/diseno/grill.md` del repo nuevo.
+
 # herdr-sessionizer
 
 ![Demo](https://raw.githubusercontent.com/salkhalil/herdr-sessionizer/assets/demo.gif)
